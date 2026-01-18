@@ -42,7 +42,7 @@ This project was built using Gemini 3 AI.
 ### General Overview
 *This is how the web application looks*
 <p align="center">
-    <img src="general.png" alt="General Dashboard" width="90%"/>
+    <img src="generalView.png" alt="General Dashboard" width="90%"/>
 </p>
 
 ## Core Functionality
