@@ -26,6 +26,12 @@ This project was built using Gemini 3 AI.
     <img src="InSentence.png" alt="Contextual Meaning" width="80%"/>
 </p>
 
+### Quiz Mode
+*Test yourself with auto-generated multiple-choice questions to reinforce learning.*
+<p>
+    <img src="quiz.png" alt="Quiz Mode" width="80%"/>
+</p>
+
 ### Review & Study Mode
 *View your collection in a grid layout or switch to "Study Mode" to hide meanings like flashcards.*
 <p>
