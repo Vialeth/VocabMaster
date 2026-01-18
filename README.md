@@ -39,6 +39,12 @@ This project was built using Gemini 3 AI.
     <img src="StudyMode.png" alt="Study Mode" width="45%"/>
 </p>
 
+### General Overview
+*This is how the web application looks*
+<p align="center">
+    <img src="general.png" alt="General Dashboard" width="90%"/>
+</p>
+
 ## Core Functionality
 
 The application addresses the issue of context-less vocabulary lists. Users can input a word within its original sentence (e.g., "It was a total [disaster]") to retrieve the specific meaning relevant to that context, rather than a generic dictionary definition.
