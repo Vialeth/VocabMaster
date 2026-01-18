@@ -4,6 +4,35 @@ VocabMaster is a single-file web application designed to help users learn specif
 
 This project was built using Gemini 3 AI.
 
+## Screenshots
+
+### Multi-Language Support
+*Create and switch between decks for different language pairs (e.g., English to Turkish).*
+<p>
+    <img src="LanguagePair.png" alt="Add Language Pair" width="45%"/>
+    <img src="Pairs.png" alt="Deck Selection" width="45%"/>
+</p>
+
+### Smart Word Entry
+*Add new words easily. The system automatically checks for duplicates to prevent redundancy.*
+<p>
+    <img src="addNewWord.png" alt="Adding New Word" width="45%"/>
+    <img src="AlreadyInDeck.png" alt="Duplicate Warning" width="45%"/>
+</p>
+
+### Context-Aware Learning
+*Input a sentence to discover the specific meaning of a word within that context.*
+<p>
+    <img src="InSentence.png" alt="Contextual Meaning" width="80%"/>
+</p>
+
+### Review & Study Mode
+*View your collection in a grid layout or switch to "Study Mode" to hide meanings like flashcards.*
+<p>
+    <img src="AllCards.png" alt="All Cards View" width="45%"/>
+    <img src="StudyMode.png" alt="Study Mode" width="45%"/>
+</p>
+
 ## Core Functionality
 
 The application addresses the issue of context-less vocabulary lists. Users can input a word within its original sentence (e.g., "It was a total [disaster]") to retrieve the specific meaning relevant to that context, rather than a generic dictionary definition.
