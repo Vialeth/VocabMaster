@@ -60,6 +60,10 @@ The application addresses the issue of context-less vocabulary lists. Users can 
 * **Data Management:** Data is stored in the browser's LocalStorage. Supports exporting and importing data via JSON files for backup.
 * **Dark Mode:** Integrated dark theme support.
 
+## Experimental branches
+- `server-edition`: Server-backed variant, not merged into main
+
+
 ## Installation and Usage
 
 1.  Download the `vocab_app.html` file.
